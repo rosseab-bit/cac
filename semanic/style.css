@@ -1,0 +1,14 @@
+img {
+      width:300px;
+      height:300px;
+      border-radius:150px;
+      border:10px solid #666;
+      }
+
+containerHead {
+     text-align: center;
+     background-color: red;
+     }
+ containerImg {
+    margin:0px auto;
+    }
